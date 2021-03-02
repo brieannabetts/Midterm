@@ -5,7 +5,7 @@
     <title>Select Cuisine</title>
 </head>
 <body>
-<form method = 'post' action="'foods.php">
+<form method = 'post' action="foods.php">
     <fieldset>
         <label for ="cuisineId"> Select a Cuisine</label>
         <select name ="cuisineId" id="cuisineId">
@@ -27,5 +27,6 @@ $db = null;
 ?>
         </select>
     </fieldset>
+    <button>Choose</button>
 </body>
 </html>
