@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Select Cuisine</title>
+    <title>Select Your Cuisine</title>
 </head>
 <body>
 <form method = 'post' action="foods.php">
